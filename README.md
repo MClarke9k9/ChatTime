@@ -1,4 +1,3 @@
 # ChatTime
 
-
-## Fun Chat App
+## Real time chat app in progress...
