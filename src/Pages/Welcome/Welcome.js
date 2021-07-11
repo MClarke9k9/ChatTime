@@ -13,7 +13,7 @@ export default class WelocomeCard extends React.Component{
                 />
                 <span className="textTitleWelcome">{`Welcome, ${this.props.currentUserName}`}</span>
                 <span className="textDesciptionWelcome">
-                    Let's connent the World
+                    Let's connect the World
                 </span>
             </div>
         )
